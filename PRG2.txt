@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Program 2 has been modified 2
 
 Profit Loss
+=======
+Program 2 has been modified by Programmer B twice.
+
+Profit Correction.
+>>>>>>> Branch2
